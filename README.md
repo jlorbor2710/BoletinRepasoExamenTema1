@@ -1,8 +1,3 @@
-Aquí tienes **el contenido adaptado y formateado en Markdown** para que puedas pegarlo directamente en un **README.md**.
-He mantenido los emojis y la estructura, pero ahora está optimizado para GitHub.
-
----
-
 # 📘 Boletín de Repaso – Optativa Android Studio (2º DAM)
 
 Este documento recoge una serie de ejercicios diseñados para practicar conceptos clave de desarrollo Android: Activities, navegación, internacionalización, multimedia, persistencia con SharedPreferences, vistas, eventos y más.
